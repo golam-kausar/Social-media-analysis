@@ -1,4 +1,4 @@
-# Social-media-analysis
+# Social-Media-Analysis
 ## Assessment Questions
 ### What was the total number of likes, shares, comments, and views (for videos) over the year?
 ### Which platform had the highest engagement? (engagement = likes + shares + comments)
